@@ -10,6 +10,8 @@ public class DxcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DxcApplication.class, args);
+		System.out.println("Started Successfully");
+
 	}
 
 }
